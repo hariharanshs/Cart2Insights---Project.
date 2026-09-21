@@ -1,0 +1,7 @@
+Low repeat customer rate — only 3.12% of customers order more than once
+Revenue concentrated in Sao Paulo — 5.9M vs 2.1M in the next state, tracking population not spend-per-customer
+Severe regional delivery disparity — northern states average 26-29 days vs. 12.5 day national average
+Delivery delay correlates with lower satisfaction — r = -0.27 with review score
+Most orders still arrive on time — 91.9% on-time despite the delay-satisfaction link
+Product category strongly influences satisfaction — books/food rate highest (4.3-4.45)
+Clear seasonality — Nov 2017 Black Friday spike, with a data caveat on the final month's artificial drop
