@@ -18,4 +18,4 @@ Interactive Dashboard — A 6-section Streamlit dashboard (Business Overview, Sa
 
 Business Insights — Data-backed findings and recommendations covering customer retention, regional delivery disparities, seasonal demand patterns, and satisfaction drivers.
 
-Tech stack: Python (Pandas, SQLAlchemy), MySQL, Streamlit, Plotly
+Tech stack: Python (Pandas, SQLAlchemy), MySQL, Streamlit, Plotly.
